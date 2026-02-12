@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "MS2RMDYK3L.com.matorinny.LifeSignal",
+        "paths": [ "/invite/*", "*" ]
+      }
+    ]
+  }
+}
